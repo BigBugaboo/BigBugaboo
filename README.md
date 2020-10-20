@@ -23,8 +23,9 @@
   
 ## 座右铭
   人生如一叶, 一叶知春秋
-  
- - 🚀 I'm learning some knowledge about front end
+ 
+## my status on now
+- 🚀 I'm learning some knowledge about front end
 
 <!--
 **BigBugaboo/BigBugaboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
