@@ -11,10 +11,20 @@
   react | 熟练
   typescript | 掌握
   webpack | 了解
-  gulp ｜ 了解
+  gulp | 了解
   node | 了解
-  JavaScript｜掌握
+  JavaScript | 掌握
   
+## 爱好
+  篮球、打游戏、hardstyle、美食
+  
+## 个人魅力
+  有追求、幽默
+  
+## 座右铭
+  人生如一叶, 一叶知春秋
+  
+ - 🚀 I'm learning some knowledge about front end
 
 <!--
 **BigBugaboo/BigBugaboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
