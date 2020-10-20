@@ -1,5 +1,13 @@
-### Hi there 👋
-这是我的[博客](https://bigbugaboo.github.io/blog-show/)
+
+# 👋 Hi,这是我的[博客](https://bigbugaboo.github.io/blog-show/)
+
+## 介绍
+
+  我是一名从事前端开发的程序员，除了喜欢遨游在前端世界里，我也喜欢电子、摩托车和汽车文化。
+  
+## 技能
+  `react``typescript`
+
 <!--
 **BigBugaboo/BigBugaboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
