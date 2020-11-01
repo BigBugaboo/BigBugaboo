@@ -8,7 +8,7 @@
 ## 技能
   名称 | 熟练度
   :-- | :-- 
-  react | 熟练
+  react | 掌握
   typescript | 掌握
   webpack | 了解
   gulp | 了解
