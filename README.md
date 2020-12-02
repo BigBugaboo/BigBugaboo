@@ -1,26 +1,5 @@
 
 # 👋 Hi,这是我的[博客](https://bigbugaboo.github.io/blog-show/)
-
-## 自我介绍
-
-  目前，我是一名从事前端开发的程序员，除了喜欢遨游在前端世界里，喜欢迎接挑战，同时我也喜欢b-box、电子、摩托车和汽车文化。
-  
-## 技能
-  名称 | 熟练度
-  :-- | :-- 
-  react | 熟悉
-  typescript | 熟悉
-  babel | 掌握
-  webpack | 了解
-  gulp | 了解
-  node | 了解
-  JavaScript | 熟悉
-  
-## 爱好
-  篮球、打游戏、hardstyle、美食
-  
-## 个人魅力
-  有追求、幽默
   
 ## 座右铭
   人生如一叶, 一叶知春秋
