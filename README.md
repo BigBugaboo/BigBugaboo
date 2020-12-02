@@ -8,12 +8,13 @@
 ## 技能
   名称 | 熟练度
   :-- | :-- 
-  react | 掌握
-  typescript | 掌握
+  react | 熟悉
+  typescript | 熟悉
+  babel | 掌握
   webpack | 了解
   gulp | 了解
   node | 了解
-  JavaScript | 掌握
+  JavaScript | 熟悉
   
 ## 爱好
   篮球、打游戏、hardstyle、美食
