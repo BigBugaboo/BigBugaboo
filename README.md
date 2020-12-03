@@ -1,9 +1,6 @@
 
-# 👋 Hi,这是我的[博客](https://bigbugaboo.github.io/blog-show/)
-  
-## 座右铭
-  人生如一叶, 一叶知春秋
- 
+# 👋 Hi,This is my [blog](https://bigbugaboo.github.io/blog-show/)
+
 ## my status on now
 - 🚀 I'm learning some knowledge about front end
 
