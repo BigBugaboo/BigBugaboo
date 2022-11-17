@@ -1,5 +1,5 @@
 
-# 👋 Hi,This is my [blog](https://bigbugaboo.github.io/blog-show/)
+# 👋 Hi
 
 ## my status on now
 - 🚀 I'm learning some knowledge about front end
