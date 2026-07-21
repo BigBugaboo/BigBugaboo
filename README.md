@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BigBugaboo</h1>
-<h3 align="center">正在学习前端知识的探索者 🚀</h3>
+<h3 align="center">探索 AI、工程化、人类未来终端需求等方面的学习者 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Front-end+Developer+in+progress;Learning+HTML%2C+CSS%2C+JavaScript;Always+curious%2C+always+building" alt="Typing SVG" />
@@ -13,8 +13,8 @@
 ---
 
 ### 🧭 关于我
-- 🚀 目前在学习前端相关知识
-- 🌱 正在探索 HTML / CSS / JavaScript 的世界
+- 🚀 目前在学习 AI、工程化相关知识
+- 🌱 正在探索 AI、工程化、人类未来终端需求的世界
 - 👯 欢迎一起交流学习、结对编程
 - 💬 可以和我聊聊前端、学习方法
 - 📫 想联系我？欢迎在这个仓库留言 / 提 Issue
