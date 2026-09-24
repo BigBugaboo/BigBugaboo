@@ -2,7 +2,7 @@
 <h3 align="center">探索 AI、工程化、人类未来终端需求等方面的学习者 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Front-end+Developer+in+progress;Learning+HTML%2C+CSS%2C+JavaScript;Always+curious%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=The future is coming." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -41,4 +41,4 @@
 
 ---
 
-<p align="center">✨ 感谢访问，一起加油学习前端吧！✨</p>
+<p align="center">✨ 一起迎接技术大爆炸吧！✨</p>
